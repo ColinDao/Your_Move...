@@ -44,8 +44,8 @@ Follow the prompts to make your moves. The AI player will respond with its moves
 
 ## Features
 
-**Minimax Algorithm**: The AI agent uses the minimax algorithm to search through the possible outcomes and determine the best move to make.
-**Alpha-Beta Pruning**: Alpha-beta pruning is applied to optimize the minimax algorithm and reduce the number of paths explored.
+**Minimax Algorithm**: The AI agent uses the minimax algorithm to search through the possible outcomes and determine the best move to make. <br />
+**Alpha-Beta Pruning**: Alpha-beta pruning is applied to optimize the minimax algorithm and reduce the number of paths explored. <br />
 **Graphical User Interface (GUI)**: A simple GUI is provided to visualize the Tic Tac Toe board and player moves.
 
 ## Credit
