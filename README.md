@@ -15,6 +15,8 @@ This project implements an AI player in Python for the classic game of Tic-tac-t
 
 ## Installation
 
+You'll need to have Python and pip3 installed. You can download them from the [official Python website](https://www.python.org/downloads/).
+
 1. Clone the repository:
 
 ```bash
@@ -30,7 +32,7 @@ cd your-move
 3. Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
