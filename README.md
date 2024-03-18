@@ -17,13 +17,13 @@ This project implements an AI player in Python for the classic game of Tic-tac-t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/colindao/your_move....git
+git clone https://github.com/colindao/Your_Move....git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your_move...
+cd Your_Move...
 ```
 
 3. Install the required dependencies:
