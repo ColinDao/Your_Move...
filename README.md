@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project implements an AI player in Python for the classic game of Tic-tac-toe. The agent uses the minimax algorithm with alpha-beta pruning to make optimal moves and ensure it never loses. 
+This project implements an AI player in Python for the classic game of Tic-Tac-Toe. The agent uses the minimax algorithm with alpha-beta pruning to make optimal moves and ensure it never loses. 
 
 ## Table of Contents
 
