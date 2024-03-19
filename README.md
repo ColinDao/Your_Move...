@@ -59,7 +59,7 @@ This project was completed as a part of [CS50's Introduction to Artificial Intel
 
 ## Technologies
 **Language**: Python <br />
-**Libaries**: Pygame
+**Libraries**: Pygame
 
 ## License
 
