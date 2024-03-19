@@ -38,9 +38,7 @@ def player(board):
         spaces += board[i].count(EMPTY)
 
     # Since X moves first, return X if there are an odd amount of empty cells
-    if spaces % 2 == 1:
-        return X
-    return O
+    return X if spaces % 2 == 1 else O
 
 
 def actions(board):
