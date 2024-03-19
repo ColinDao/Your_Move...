@@ -53,13 +53,13 @@ Follow the prompts to make your moves. The AI player will respond with its moves
 <br />
 **Graphical User Interface (GUI)**: A simple GUI is provided to visualize the Tic-Tac-Toe board and player moves.
 
-## Credit
-
-This project was completed as a part of [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/). Go check them out!
-
 ## Technologies
 **Language**: Python <br />
 **Libraries**: Pygame, Time, Sys, Copy
+
+## Credit
+
+This project was completed as a part of [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/). Go check them out!
 
 ## License
 
