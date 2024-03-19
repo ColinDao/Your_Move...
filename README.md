@@ -51,7 +51,7 @@ Follow the prompts to make your moves. The AI player will respond with its moves
 <br />
 **Alpha-Beta Pruning**: Alpha-beta pruning is applied to optimize the minimax algorithm and reduce the number of paths explored. <br />
 <br />
-**Graphical User Interface (GUI)**: A simple GUI is provided to visualize the Tic-tac-toe board and player moves.
+**Graphical User Interface (GUI)**: A simple GUI is provided to visualize the Tic-Tac-Toe board and player moves.
 
 ## Credit
 
